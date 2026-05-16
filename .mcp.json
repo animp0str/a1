@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "unity-mcp": {
+      "command": "node",
+      "args": ["g:\\a1\\unity-mcp-server\\src\\index.js"],
+      "env": {
+        "UNITY_BRIDGE_PORT": "7890",
+        "UNITY_BRIDGE_TIMEOUT": "60000",
+        "UNITY_EDITOR_PATH": "C:\\Program Files\\Unity 2023.2.22f1\\Editor\\Unity.exe"
+      }
+    }
+  }
+}

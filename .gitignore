@@ -59,3 +59,6 @@ venv/
 # Node
 node_modules/
 npm-debug.log*
+
+# External repos (managed separately)
+unity-mcp-server/
